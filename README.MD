@@ -15,8 +15,6 @@ MKOnlineMusicPlayer 是一款开源的基于 `Meting` 的在线音乐播放器�
 
 ### 相关链接
 -----
-**在线演示** [http://lab.mkblog.cn/music/](http://lab.mkblog.cn/music/)
-
 **详细介绍** [http://mkblog.cn/1060/](http://mkblog.cn/1060/)
 
 **GitHub** [https://github.com/mengkunsoft/MKOnlineMusicPlayer](https://github.com/mengkunsoft/MKOnlineMusicPlayer)
